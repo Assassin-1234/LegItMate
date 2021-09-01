@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**LegItMate/LegItMate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a teenager who loves coding and working with people! ❤️
+Currently working with [Discord API](https://discord.com/developers/docs/intro) and other stuff
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on - @Nuggies-bot
+- 🌱 I’m currently learning - Nothing actually
+- 👯 I’m looking to collaborate on - Opens-source projects that I like
+- 🤔 I’m looking for help with - Perlin noise or more specifically trying to make terrain generator
+- 💬 Ask me about - Minecraft lol
+- 📫 How to reach me: [Discord Server](https://discord.gg/Z5skYQzHBV) or my discord tag `LegItMate#6667`
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I do play games
